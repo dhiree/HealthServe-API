@@ -15,6 +15,6 @@ This API manages healthcare services. It allows you to create, retrieve, update,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/healthcare-service-api.git
+git clone https://github.com/dhiree/HealthServe-API.git
 cd healthcare-service-api
 nodemon app.js
